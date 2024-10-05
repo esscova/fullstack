@@ -1,5 +1,3 @@
-# Boston Housing Prediction App
-
 ![image](screenshot.png)
 
 Esta é uma aplicação web de previsão de preços de moradias, utilizando **FastAPI** e um modelo de **Regressão Linear** treinado com o conjunto de dados de Boston Housing. A aplicação permite que os usuários façam previsões com base em três entradas: o número de cômodos, o percentual de classe social baixa e a proporção de alunos por professor. O resultado é exibido de forma dinâmica na página utilizando **htmx** para melhorar a experiência do usuário.
@@ -26,8 +24,8 @@ Esta é uma aplicação web de previsão de preços de moradias, utilizando **Fa
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/esscova/boston-housing-prediction.git
-   cd boston-housing-prediction
+   git clone https://github.com/esscova/fullstack.git
+   cd fullstack/boston-housing-prediction-app
    ```
 
 2. **Crie e ative um ambiente virtual:**
