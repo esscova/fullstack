@@ -1,5 +1,7 @@
 # Boston Housing Prediction App
 
+![image](screenshot.png)
+
 Esta é uma aplicação web de previsão de preços de moradias, utilizando **FastAPI** e um modelo de **Regressão Linear** treinado com o conjunto de dados de Boston Housing. A aplicação permite que os usuários façam previsões com base em três entradas: o número de cômodos, o percentual de classe social baixa e a proporção de alunos por professor. O resultado é exibido de forma dinâmica na página utilizando **htmx** para melhorar a experiência do usuário.
 
 ## Tecnologias Utilizadas
